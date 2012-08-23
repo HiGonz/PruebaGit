@@ -1,1 +1,2 @@
+.LOG
 Hola este es un cambio
